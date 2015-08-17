@@ -2439,7 +2439,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 100%;
 		}
 
 			.features article .inner > :last-child {
@@ -2573,7 +2573,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/banner.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
